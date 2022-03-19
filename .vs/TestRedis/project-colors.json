@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4d735a7c-3e8d-4041-9b42-cde643d573fc": {
+      "ProjectGuid": "4d735a7c-3e8d-4041-9b42-cde643d573fc",
+      "DisplayName": "TestRedis",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
